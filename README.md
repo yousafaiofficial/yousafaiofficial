@@ -1,24 +1,107 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi! I'm an aspiring **AI Engineer, Machine Learning Enthusiast, and Full-Stack Developer** passionate about building intelligent applications and solving real-world problems through technology.<br><br>I'm an advanced Python programmer with hands-on experience in backend development using **Flask and FastAPI**, frontend development, and database management with **MySQL**.<br><br>I'm continuously exploring **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**, experimenting with new technologies and developing practical projects to strengthen my skills.<br><br>### 🚀 Technical Skills<br><br>- **Programming:** Python, JavaScript<br>- **AI & ML:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision<br>- **Backend:** Flask, FastAPI, REST APIs<br>- **Frontend:** HTML, CSS, Bootstrap<br>- **Database:** MySQL<br>- **Data Visualization:** Tableau<br><br>### 🎯 Current Goals<br><br>- Exploring advanced AI and Machine Learning concepts.<br>- Developing Deep Learning and Computer Vision projects.<br>- Building scalable backend systems and full-stack applications.<br>- Working on freelance projects and real-world solutions.<br>- Continuously improving my software engineering skills.<br><br>### 💡 My Philosophy<br><br>I believe in learning by building, solving problems through experimentation, and turning innovative ideas into practical solutions.<br><br>**Always learning, always building, and always exploring what's possible with technology. 🚀**
 
+<!-- ===== HEADER ===== -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ _y0u5af_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-yousaf-50ab36271/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/myousafai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousafzulqurnain.ai@gmail.com) 
+<h1 align="center">👋 Hi, I'm Muhammad Yousaf</h1>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yousafaiofficial &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yousafaiofficial &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yousafaiofficial &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Deep+Learning+%26+Computer+Vision;Python+%7C+Flask+%7C+FastAPI;Full-Stack+Developer+%F0%9F%92%BB" alt="Typing Animation"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yousafaiofficial &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <b>AI Enthusiast | Full-Stack Developer | Freelancer</b>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yousafaiofficial &limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  Advanced Python programmer passionate about AI, Machine Learning, Deep Learning, Computer Vision, and building practical software solutions.
+</p>
+
+<!-- ===== SOCIAL LINKS ===== -->
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-yousaf-50ab36271">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_y0u5af_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/myousafai">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:yousafzulqurnain.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=yousafaiofficial &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===== TECH STACK ===== -->
+
+<h3 align="center">⚡ Technologies & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,php,js,html,css,bootstrap,flask,django,fastapi,mysql,mongodb,wordpress,git,github,docker&perline=9" alt="Technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Exploring-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Exploring-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+<!-- ===== CURRENT FOCUS ===== -->
+
+<h3 align="center">🎯 What I'm Focused On</h3>
+
+<p align="center">
+  🤖 Exploring Artificial Intelligence & Machine Learning<br/>
+  🧠 Learning Deep Learning & Computer Vision<br/>
+  💻 Building Full-Stack & AI-powered Applications<br/>
+  📊 Creating Data Visualizations with Tableau<br/>
+  🤝 Open to Freelance Projects & Collaboration
+</p>
+
+---
+
+<!-- ===== GITHUB STATS ===== -->
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=yousafaiofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafaiofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yousafaiofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- ===== FOOTER ===== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yousafaiofficial&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
+</p>
+
+<h3 align="center">💡 Learn Continuously. Build Consistently. Innovate Fearlessly. 🚀</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=100&section=footer" width="100%" alt="Animated Footer"/>
+</p>
