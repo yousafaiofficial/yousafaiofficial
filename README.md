@@ -83,16 +83,18 @@
 
 <!-- ===== GITHUB STATS ===== -->
 
+
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=yousafaiofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafaiofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yousafaiofficial&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafaiofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yousafaiofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=yousafaiofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 <!-- ===== FOOTER ===== -->
 
